@@ -12,9 +12,7 @@ import {
   AiOutlineContacts,
   AiOutlineSafetyCertificate
 } from "react-icons/ai";
-import { GiSkills } from "react-icons/gi"
-import { CgFileDocument } from "react-icons/cg";
-
+import { GiSkills } from "react-icons/gi";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);

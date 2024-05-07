@@ -23,7 +23,7 @@ const CertificateCard = (props) => {
           borderRadius: "10%",
         }}
       />
-        <Card.Title>{props.title}</Card.Title>
+        <Card.Title className="yellow">{props.title}</Card.Title>
     </Card>
   );
 };
