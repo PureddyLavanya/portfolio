@@ -62,7 +62,7 @@ const Projects = () => {
               imgPath={leapyearchecker}
               title="Leap Year Checker"
               description="Flask web application designed to check if a given year is a leap year or not through accessing a form. Using bootstrap for the frontend and flask for the backend makes application user friendly through providing effective user interface."
-              ghLink="https://github.com/19sajib/Project-Krypto-Web-3.0"  
+              ghLink="https://github.com/PureddyLavanya/Leap_Year_Checker_Flask"  
             />
           </Col>
 
